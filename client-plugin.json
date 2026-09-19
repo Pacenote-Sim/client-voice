@@ -1,0 +1,8 @@
+{
+  "name": "voice",
+  "kind": "companion",
+  "title": "Voice",
+  "description": "Plays what the other plugins have to say: the audio engineer's lines arrive with, and words spoken through the voice server plugin, or the machine's own voice when it is not there. Owns the volume.",
+  "interface_version": 1,
+  "server_plugin": "voice"
+}
